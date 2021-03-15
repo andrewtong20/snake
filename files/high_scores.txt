@@ -1,0 +1,4 @@
+andrew 10
+mom 5
+goal 3
+johnn 5
